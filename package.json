@@ -1,0 +1,22 @@
+{
+  "name": "artofthemet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyderek/ArtOfTheMet.git"
+  },
+  "author": "Andy Nixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyderek/ArtOfTheMet/issues"
+  },
+  "homepage": "https://github.com/andyderek/ArtOfTheMet#readme",
+  "dependencies": {
+    "node": "^11.12.0"
+  }
+}
