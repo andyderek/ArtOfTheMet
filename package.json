@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/andyderek/ArtOfTheMet#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "node": "^11.12.0"
   }
 }
